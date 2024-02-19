@@ -1,16 +1,16 @@
 ---
 layout: page
-title: submenus
+title: Gallery
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: publications
+  - title: Travel
     permalink: /publications/
   - title: divider
-  - title: projects
+  - title: Work
     permalink: /projects/
   - title: divider
-  - title: blog
+  - title: Art
     permalink: /blog/
 ---
